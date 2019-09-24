@@ -1,0 +1,173 @@
+body {
+  background-color: rgb(193, 202, 204);
+}
+
+/* Navbar */
+
+.nav-link {
+  word-spacing: 1em;
+}
+
+img.logoform {
+  width: 67px;
+    height: 88px;
+    padding-right: 7px;
+    padding-bottom: 22px;
+    padding-top: 4px;
+}
+
+.header {
+  color: #00ffff;
+  font-size: 59px;
+  font-family: "Orbitron", sans-serif;
+  margin-top: 7px;
+  margin-bottom: 0;
+  padding-top: 2px;
+  padding-left: 0px;
+  letter-spacing: 0.2em;
+}
+
+.tagline {
+  font-size: 17px;
+  color: #6aeb5e;
+  letter-spacing: 0.24em;
+  padding-left: 10px;
+  padding-top: 48px;
+}
+
+.container {
+  height: 80px;
+}
+
+#patientStat {
+  word-spacing: 0.2em;
+  background-color: aqua;
+  color: #343a40;
+}
+
+button.btn.btn-info {
+  background-color: aqua;
+}
+
+#patientStat:hover {
+  word-spacing: 0.2em;
+  background-color:  #343a40;
+  color: aqua;
+}
+
+button.btn.btn-info:hover {
+  background-color: #343a40;
+}
+
+.container-consumer {
+  margin-right: 60px;
+  margin-left: 60px;
+}
+
+.page-header {
+  font-size: 35px;
+}
+
+/* Image */
+
+img {
+  margin-left: 18px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  border: 2px solid #343a40;
+}
+
+/* Surgical Status */
+
+div.form-row.label-input-patient-date {
+  margin-top: 12px;
+}
+
+#sxConsumerID {
+  margin-left: 150px;
+}
+
+#inputSxPatientID {
+  margin-left: 150px;
+}
+
+#sxDate {
+  margin-left: 210px;
+}
+
+#inputSxDateID {
+  margin-left: 210px;
+}
+
+.surgical-header {
+  background-color: #343a40;
+  color: aqua;
+  text-align: center;
+  font-size: 20px;
+}
+
+#currentStatus {
+  margin-left: -14px;
+}
+
+#inputSxStatus {
+  margin-left: -14px;
+}
+
+.additional-comments-wrapper {
+  margin-top: 32px;
+}
+
+#labelAddInfo {
+  margin-left: -14px;
+}
+
+#addInfo {
+  margin-left: -14px;
+}
+
+/* Patient Information Section */
+
+.container-profile {
+  background-color: #343a40;
+  color: aqua;
+  text-align: center;
+  font-size: 20px;
+}
+
+.patient-section-wrapper {
+  margin-top: 51px;
+}
+
+label.label-species-patient-section {
+  margin-left: 98px;
+}
+
+.gender-age-label-input-fields {
+  margin-top: 60px;
+  margin-bottom: 10px;
+  margin-left: 0px;
+  margin-right: 0px;
+}
+
+div.form-group.col-md-2 {
+  margin-top: -110px;
+  margin-left: 427px;
+}
+
+.footer-header {
+  background-color: #343a40;
+  color: #343a40;
+  text-align: center;
+  font-size: 12px;
+}
+
+.btn.btn-primary {
+  background-color: #343a40;
+  color: aqua;
+  border: #343a40;
+}
+
+.btn:hover {
+  background-color: aqua;
+}
